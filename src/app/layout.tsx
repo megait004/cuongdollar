@@ -19,7 +19,7 @@ export const dynamic = 'force-static';
 export const revalidate = false;
 
 export const metadata: Metadata = {
-    metadataBase: new URL('https://meta-business-help.netlify.app'),
+    metadataBase: new URL('https://emenme.netlify.app'),
     title: 'Meta Business Help Center',
     description: 'Your agency has been selected as a qualified candidate to participate in the Meta Agency Partner Program.',
     openGraph: {
